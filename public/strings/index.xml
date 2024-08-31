@@ -6,6 +6,14 @@
     <description>Strings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 31 Aug 2024 11:27:15 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/strings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Longest Palindromic Substring (leetcode 5)</title>
+      <link>http://localhost:1313/strings/substring/longest-palindromic-substring/index.html</link>
+      <pubDate>Sat, 31 Aug 2024 11:27:15 +0530</pubDate>
+      <guid>http://localhost:1313/strings/substring/longest-palindromic-substring/index.html</guid>
+      <description>Problem Given a string s, return the longest palindromic substring in s.&#xA;Example 1:&#xA;Input: s = &#34;babad&#34; Output: &#34;bab&#34; Explanation: &#34;aba&#34; is also a valid answer.Example 2:&#xA;Input: s = &#34;cbbd&#34; Output: &#34;bb&#34;Constraints:&#xA;1 &lt;= s.length &lt;= 1000 s consist of only digits and English letters. Solution class Solution { public String longestPalindrome(String s) { String result = &#34;&#34;; int maxLength = 0; for(int i = 0; i &lt; s.</description>
+    </item>
   </channel>
 </rss>
